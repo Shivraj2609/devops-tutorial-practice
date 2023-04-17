@@ -1,0 +1,12 @@
+There Are Different Commands Present in Git
+1. Git Init
+2. Git Add file_Name
+3. Git Commit -m "Your Message"
+4. Git Status
+5. Git Log --oneline
+6. Git revert
+7. Git Rebase
+8. Git Merge
+9. Git remote -v
+ 
+And Many More........... :) 
